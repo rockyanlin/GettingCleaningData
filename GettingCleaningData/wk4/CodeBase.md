@@ -92,7 +92,7 @@ frequencyBodyGyroMeanFreqX_mean |          frequencyBodyGyroMeanFreqY_mean
 frequencyBodyGyroMeanFreqZ_mean  |         frequencyBodyAccMagMean_mean             
 frequencyBodyAccMagStd_mean       |        frequencyBodyAccMagMeanFreq_mean         
 frequencyBodyBodyAccJerkMagMean_mean |      frequencyBodyBodyAccJerkMagStd_mean      
-frequencyBodyBodyAccJerkMagMeanFreq_mean  frequencyBodyBodyGyroMagMean_mean        
+frequencyBodyBodyAccJerkMagMeanFreq_mean | frequencyBodyBodyGyroMagMean_mean        
 frequencyBodyBodyGyroMagStd_mean      |    frequencyBodyBodyGyroMagMeanFreq_mean    
 frequencyBodyBodyGyroJerkMagMean_mean  |   frequencyBodyBodyGyroJerkMagStd_mean     
 frequencyBodyBodyGyroJerkMagMeanFreq_mean | angleTimeBodyAccMeanGravity_mean         
