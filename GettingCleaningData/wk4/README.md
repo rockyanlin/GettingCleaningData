@@ -14,6 +14,6 @@ The purpose of this project is to demonstrate the ability to collect, work with,
 This repository holds the following files:
 - README.md – this file. 
 - CodeBook.md – it describes how to use the variables, the data, and transformations performed to clean up the data. 
-- cleandata-wk4.R – it contains the code to perform the analysis described in the 5 steps.
+- run_analysis.R – it contains the code to perform the analysis described in the 5 steps.
 - tidy_dataset.txt - The output of the project created by the execution of run_analysis.R
 
